@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="week-6-exercise-PunithaAnandan:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="soupdemo.war">
+      <element id="artifact" artifact-name="week-6-exercise-PunithaAnandan:war exploded" />
+    </root>
+  </artifact>
+</component>
